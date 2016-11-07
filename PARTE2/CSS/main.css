@@ -1,0 +1,42 @@
+.box1
+{
+
+	background-color: #050A03;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+}
+.box2
+{
+	background-color: #4C2CEB;
+	width: 200px;
+	height: 200px;
+	position: static;
+	
+}
+.box3
+{
+	background-color: #27780A;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	bottom:470px;
+	left: 57px;
+	
+	
+}
+
+.clearfix
+{
+	border:1px solid black;
+}
+
+.clear{
+
+	
+	padding: 5% 0 0 70%;
+
+	display: block;
+	clear: both;
+
+}

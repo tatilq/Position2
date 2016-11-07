@@ -1,0 +1,41 @@
+.box1
+{
+	background-color: #DA183C;
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+.box2
+{
+	background-color: #93158F;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	bottom:150px;
+	left: 50px;
+
+}
+.box3
+{
+	background-color: #F2EE00;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	bottom: 520px;
+	left: 58px;
+}
+
+.clearfix
+{
+	border:1px solid black;
+}
+
+.clear{
+
+	
+	padding: 5% 0 0 70%;
+
+	display: block;
+	clear: both;
+
+}
